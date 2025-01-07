@@ -47,7 +47,7 @@ DailyLife({
       youtube: true,
       X: false
     }
-  }
+  },
   girlFriend: !true,
 })
 ```
